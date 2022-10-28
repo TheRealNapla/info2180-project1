@@ -20,6 +20,9 @@ header {
     background: #E2E8F0;
 }
 
+.overview-hero img{
+    width: 250px;
+}
 .learn-about h2 {
     font-size: 24px;
     color: #48BB78;
@@ -33,6 +36,10 @@ header {
     -moz-border-radius: 5px;
     -ms-border-radius: 5px;
     -o-border-radius: 5px;
+}
+
+.card img {
+    width: 300px;
 }
 
 .learn-about h3 {
@@ -72,6 +79,8 @@ header {
     -moz-border-radius: 50%;
     -ms-border-radius: 50%;
     -o-border-radius: 50%;
+    width: 225px;
+    height: 225px;
 }
 
 .newsletter {
